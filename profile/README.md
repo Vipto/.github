@@ -40,6 +40,7 @@ For legal or verification-related queries, please contact:
 
 - [Vipto GitHub Organization](https://github.com/Vipto)
 - [Vipto LinkedIn](https://www.linkedin.com/company/vipto/)
+- [Legal Information](https://github.com/Vipto/.github/blob/main/legal.md)
 
 ---
 
