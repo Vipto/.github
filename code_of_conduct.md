@@ -59,3 +59,6 @@ Enforcement of this Code of Conduct is the responsibility of Vipto's authorized 
 ## 15. Protection Against Retaliation
 
 Vipto does not tolerate retaliation against any individual who, in good faith, reports a concern under this Code of Conduct or participates in the investigation of such a report. Any concern regarding retaliation should itself be reported through the same channel.
+
+**Ownership of Contributions.** Any source code, software, technical solution, design, documentation, feature, product idea, or other work created, developed, modified, or contributed by any intern, contributor, volunteer, or other individual specifically for or in connection with Vipto shall be the exclusive property of Vipto. The individual making the contribution shall not acquire any ownership, copyright, intellectual property, or other proprietary rights in such contribution solely by creating or contributing it. All such rights shall belong exclusively to Vipto, subject to any rights in pre-existing intellectual property that was independently created before the individual's engagement with Vipto.
+
