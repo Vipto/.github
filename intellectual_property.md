@@ -52,6 +52,9 @@ Nothing in this document is intended to transfer ownership of intellectual prope
 
 Where the ownership or usage of a particular piece of work requires clarity beyond the general expectations described in this document — for example, in relation to a specific paid engagement or a significant individual contribution — that arrangement should be addressed through a specific written agreement between Vipto and the individual concerned, rather than relying on this general document alone.
 
+**Ownership of Contributions.** Any source code, software, technical solution, design, documentation, feature, product idea, or other work created, developed, modified, or contributed by any intern, contributor, volunteer, or other individual specifically for or in connection with Vipto shall be the exclusive property of Vipto. The individual making the contribution shall not acquire any ownership, copyright, intellectual property, or other proprietary rights in such contribution solely by creating or contributing it. All such rights shall belong exclusively to Vipto, subject to any rights in pre-existing intellectual property that was independently created before the individual's engagement with Vipto.
+
+
 ## 14. Requirement for Written Agreements
 
 Vipto's general practice, as described in this document, does not substitute for a written agreement where the value, sensitivity, or nature of a specific contribution warrants one. Contributors or interns who believe such an agreement is appropriate for their situation should raise the matter with the Engineering Lead or Vipto's official contact address.
