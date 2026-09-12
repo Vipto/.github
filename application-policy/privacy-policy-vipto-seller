@@ -1,0 +1,312 @@
+============================================================
+                    VIPTO SELLER
+                   PRIVACY POLICY
+============================================================
+
+Last Updated: July 2026
+
+Welcome to Vipto Seller. Your privacy is important to us.
+This Privacy Policy explains what information we collect,
+how we use it, how we protect it, and the choices you have
+when using the Vipto Seller application.
+
+Vipto Seller is designed to help local shop owners upload
+products, receive customer availability requests, and manage
+their stores digitally. By using the application, you agree
+to the practices described in this Privacy Policy.
+
+
+------------------------------------------------------------
+1. ABOUT VIPTO SELLER
+------------------------------------------------------------
+
+Vipto Seller is a marketplace application developed to
+connect local businesses with nearby customers.
+
+The application allows sellers to:
+
+- Create a store profile
+- Upload product images
+- Manage product listings
+- Respond to customer availability requests
+
+At this stage, Vipto Seller is an MVP (Minimum Viable Product).
+Some features may change or expand in future updates.
+
+
+------------------------------------------------------------
+2. INFORMATION WE COLLECT
+------------------------------------------------------------
+
+To provide our services, Vipto Seller collects only the
+information necessary for operating the application.
+
+
+SELLER INFORMATION
+
+When you register as a seller, we may collect:
+
+- Store owner's name
+- Mobile phone number
+- Store name
+- Store category
+- Store address
+- Geographic location (latitude and longitude)
+- Store verification status
+- Account creation date
+
+This information is stored securely in Firebase Firestore.
+
+
+PRODUCT INFORMATION
+
+When uploading products, we collect:
+
+- Product images
+- Product name
+- Product category
+- Product price
+- Upload timestamp
+- Store identifier
+
+Images uploaded through the application are securely stored
+using Cloudinary.
+
+
+AVAILABILITY REQUESTS
+
+When customers request product availability, we store:
+
+- Customer phone number
+- Product ID
+- Shop ID
+- Request status
+- Request creation time
+- Response time
+
+These requests help sellers respond whether a product is
+available.
+
+
+------------------------------------------------------------
+3. LOCATION INFORMATION
+------------------------------------------------------------
+
+Vipto Seller requests your device location during store setup.
+
+Your location is used only to:
+
+- Register your shop location
+- Help customers discover nearby stores
+- Improve local product visibility
+- Support future map-based features
+
+We do not continuously track your location in the background.
+
+Location is collected only when required for store
+registration or when you choose to update your store location.
+
+
+------------------------------------------------------------
+4. CAMERA AND GALLERY ACCESS
+------------------------------------------------------------
+
+The application requests permission to access your camera
+and photo gallery.
+
+These permissions are used only for:
+
+- Capturing product images
+- Selecting existing product photos
+- Uploading products to your store
+
+Images are uploaded only after you choose to upload them.
+
+The application never captures photos or videos without
+your knowledge.
+
+
+------------------------------------------------------------
+5. STORAGE OF IMAGES
+------------------------------------------------------------
+
+Product images uploaded by sellers are stored using Cloudinary,
+a secure cloud image hosting service.
+
+Cloudinary stores only the images you choose to upload.
+
+Images are displayed inside the application so customers
+can browse products.
+
+
+------------------------------------------------------------
+6. HOW WE USE YOUR INFORMATION
+------------------------------------------------------------
+
+The information collected is used for the following purposes:
+
+- Creating your seller account
+- Displaying your store profile
+- Publishing your products
+- Allowing customers to discover your shop
+- Processing availability requests
+- Improving application performance
+- Providing customer support
+- Preventing misuse of the platform
+
+We do not sell your personal information.
+
+
+------------------------------------------------------------
+7. FIREBASE SERVICES
+------------------------------------------------------------
+
+Vipto Seller uses Google Firebase services including:
+
+- Cloud Firestore
+- Firebase Core
+
+Firebase securely stores application data and helps
+synchronize information across devices.
+
+Firebase may process data according to Google's Privacy Policy.
+
+
+------------------------------------------------------------
+8. THIRD-PARTY SERVICES
+------------------------------------------------------------
+
+The application currently uses the following third-party
+services:
+
+- Google Firebase
+- Cloudinary
+
+These services process information only to provide
+application functionality.
+
+Each service has its own privacy policy and security practices.
+
+
+------------------------------------------------------------
+9. DATA SECURITY
+------------------------------------------------------------
+
+We take reasonable technical and administrative measures
+to protect your information.
+
+These include:
+
+- Secure cloud databases
+- HTTPS encrypted communication
+- Restricted database access
+- Secure image hosting
+
+While we strive to protect your data, no online service
+can guarantee absolute security.
+
+
+------------------------------------------------------------
+10. DATA RETENTION
+------------------------------------------------------------
+
+Your information is stored while your account remains active.
+
+If you stop using Vipto Seller, your data may continue to be
+stored for operational, legal, or security purposes unless
+you request deletion where applicable.
+
+
+------------------------------------------------------------
+11. CHILDREN'S PRIVACY
+------------------------------------------------------------
+
+Vipto Seller is intended for individuals who are legally
+allowed to operate a business.
+
+The application is not designed for children under the age
+of 13.
+
+We do not knowingly collect personal information from children.
+
+
+------------------------------------------------------------
+12. PERMISSIONS USED
+------------------------------------------------------------
+
+The application may request the following permissions:
+
+- Camera
+- Photo Gallery
+- Location
+- Internet Access
+
+Each permission is requested only when required for
+application functionality.
+
+
+------------------------------------------------------------
+13. FUTURE FEATURES
+------------------------------------------------------------
+
+As Vipto Seller continues to grow, additional features such as
+analytics, notifications, payment integration, inventory
+management, and customer messaging may be introduced.
+
+If these features require additional data collection, this
+Privacy Policy will be updated accordingly.
+
+
+------------------------------------------------------------
+14. YOUR RIGHTS
+------------------------------------------------------------
+
+You may request to:
+
+- Update your seller information
+- Correct inaccurate information
+- Remove uploaded products
+- Request account deletion
+- Contact us regarding privacy concerns
+
+Requests will be reviewed and processed where applicable.
+
+
+------------------------------------------------------------
+15. CHANGES TO THIS PRIVACY POLICY
+------------------------------------------------------------
+
+We may update this Privacy Policy periodically to reflect
+improvements, legal requirements, or new application features.
+
+The latest version will always be available through our
+official channels.
+
+Your continued use of Vipto Seller after changes indicates
+your acceptance of the updated Privacy Policy.
+
+
+------------------------------------------------------------
+16. CONTACT US
+------------------------------------------------------------
+
+If you have any questions regarding this Privacy Policy or
+how your information is handled, please contact us:
+
+Vipto Seller Team
+Email: vipto.app@gmail.com
+
+We will make reasonable efforts to respond to privacy-related
+inquiries as quickly as possible.
+
+
+============================================================
+                         NOTICE
+============================================================
+
+By using Vipto Seller, you acknowledge that you have read,
+understood, and agree to this Privacy Policy.
+
+============================================================
+                    © Vipto Seller
+============================================================
