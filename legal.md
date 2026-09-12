@@ -1,172 +1,386 @@
 # VIPTO
 
-## Legal Basis of Operation & Internship Framework
+## Legal Basis of Operation, Faculty Guidance & Internship Framework
 
-**Document Status:** Public Reference  
-**Publisher:** Vipto  
-**Last Updated:** August 2026  
-**Official Contact:** vipto.app@gmail.com
-
----
-
-## 1. Purpose and Scope
-
-This document sets out, in clear and professional terms, the legal and organizational basis on which Vipto operates, the basis on which it engages interns, and the basis on which it issues internship-related documentation, including completion certificates.
-
-This document is published for the purpose of transparency toward interns, applicants, collaborators, and the general public. It is not a certificate of incorporation, a statutory filing, or a substitute for legal advice.
-
-It is a factual and organizational disclosure.
+**Document Status:** Public Reference
+**Publisher:** Vipto
+**Last Updated:** September 2026
+**Official Contact:** [vipto.app@gmail.com](mailto:vipto.app@gmail.com)
 
 ---
 
-## 2. What Vipto Is
+# 1. Purpose and Scope
 
-Vipto is a technology product initiative operating in the software and mobile-application domain. Vipto currently exists and operates through the following verifiable, publicly accessible channels:
+This document sets out, in clear and professional terms, the legal and organizational basis on which Vipto operates, the basis on which it engages interns and student contributors, the academic guidance associated with the project, the ownership of contributions made in connection with Vipto, and the basis on which Vipto issues internship-related documentation, including completion certificates.
 
-| Presence | Nature |
-|---|---|
-| **GitHub Organization** | Vipto maintains a public/organizational presence on GitHub, where its source code, development activity, issue tracking, and contribution history are recorded and version-controlled. |
-| **Google Play Store** | Vipto's application is published and registered on the Google Play Store, which requires a verified developer account and adherence to Google's Developer Distribution Agreement and policies. |
-| **Confluence** | Used for internal documentation, process records, and organizational knowledge management. |
-| **Microsoft Teams** | Used for internal communication and coordination. |
-| **Figma** | Used for product and interface design. |
+This document is published for transparency toward interns, applicants, participating students, collaborators, educational institutions, prospective employers, and the general public.
 
-These platforms collectively demonstrate that Vipto is an active, identifiable, and operationally real initiative — it is not a shell name or an informal label with no substance behind it. A GitHub organization and a published Play Store application both require identity verification, developer registration, and ongoing accountability to platform policies, which is itself a form of operational and reputational accountability, even though it is distinct from statutory corporate registration.
-
-At the same time, in the interest of full and accurate disclosure: Vipto is not currently registered as a Private Limited Company, Limited Liability Partnership (LLP), or Partnership Firm under Indian company or partnership law. Vipto currently operates as an unincorporated initiative, carried on by the individual(s) responsible for it.
-
-This distinction matters, and is addressed directly below, because Indian law treats ‘legal existence for operational purposes’ and ‘incorporated legal personality’ as two separate questions.
+It is a factual and organizational disclosure. It is not a certificate of incorporation, statutory filing, government approval, university accreditation, or legal opinion, and it does not substitute for professional legal advice.
 
 ---
 
-## 3. If Vipto Is Not a Company, How Can It Legally Engage Interns?
+# 2. What Vipto Is
 
-This is the central legal question this document addresses, and the answer under Indian law is clear:
+Vipto is a technology product initiative operating in the software and mobile-application domain.
 
-incorporation is not a legal precondition for engaging a person to work or intern. The right to enter into a lawful working arrangement rests on contractual capacity, not on corporate registration.
+Vipto currently exists and operates through the following verifiable, publicly accessible and/or operational channels:
 
-### 3.1 Contractual Capacity Under the Indian Contract Act, 1872
+| Presence                | Nature                                                                                                                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GitHub Organization** | Vipto maintains a public/organizational presence on GitHub, where source code, development activity, issue tracking, and contribution history are recorded and version-controlled. |
+| **Google Play Store**   | Vipto's application is published on the Google Play Store through a verified developer account and is subject to Google's applicable developer policies and agreements.            |
+| **Confluence**          | Used for internal documentation, process records, and organizational knowledge management.                                                                                         |
+| **Microsoft Teams**     | Used for internal communication and coordination.                                                                                                                                  |
+| **Figma**               | Used for product and interface design.                                                                                                                                             |
 
-The foundational law governing any engagement — including an internship — is the Indian Contract Act, 1872. Under Section 10 and Section 11 of this Act, any person who is of the age of majority, of sound mind, and not disqualified by law, is competent to enter into a valid, binding contract. This applies equally to an individual acting on their own behalf, an unincorporated group, or a registered company. A contract does not require either party to be an incorporated entity to be legally valid and enforceable.
+These channels demonstrate that Vipto is an active technology project with an identifiable operational presence.
 
-This means an internship agreement — a written offer, defined scope of work, defined duration, and defined terms, accepted by the intern — is a legally valid contract between competent parties, irrespective of whether the engaging party is a company.
+At the same time, for complete and accurate disclosure, **Vipto is not currently registered as a Private Limited Company, Limited Liability Partnership (LLP), or Partnership Firm under Indian company or partnership law.**
 
-### 3.2 The Legal Meaning of ‘Employer’ Is Broader Than ‘Company’
+Vipto currently operates as an **unincorporated technology project/initiative managed by the individual(s) responsible for it**.
 
-Indian labour and industrial legislation does not restrict the term ‘employer’ to registered companies. For example, the Apprentices Act, 1961 defines an employer as any person who employs one or more persons in an establishment, and defines ‘establishment’ broadly enough to include operations that are not incorporated companies. This confirms a wider legal principle that runs through Indian labour law: the capacity to engage people for work attaches to the person or body actually directing that work, not exclusively to a registered corporate form.
-
-It should be clearly noted that Vipto's internship program is not a statutory Apprenticeship under the Apprentices Act, 1961. The Act creates a distinct, formal category with its own registration and contract obligations under Chapter II of the Apprentices Act, 1961, and Vipto does not represent its interns as statutory ‘apprentices’ under that Act. This distinction is drawn deliberately, so that Vipto's use of the term ‘intern’ is not confused with, or misrepresented as, a different, formally regulated legal category.
-
-### 3.3 Distinction From Partnership Law
-
-Because Vipto is not structured as a partnership between two or more persons carrying on business for profit, the Indian Partnership Act, 1932 does not, at present, govern Vipto's structure. This Act is referenced here only for completeness and transparency, so that Vipto's legal position is described by what it is not, as well as what it is, avoiding any ambiguity for interns or the public.
-
-### 3.4 Sole Responsibility in the Absence of Incorporation
-
-Where an initiative is not incorporated, Indian law does not treat that initiative as existing without any legal accountability. Rather, liability and responsibility for actions taken in the initiative's name rest with the individual(s) actually carrying on the activity, in their personal capacity, until and unless a separate legal entity (such as a company under the Companies Act, 2013 or an LLP under the Limited Liability Partnership Act, 2008) is formed to take on that liability instead.
-
-This is a well-established principle: the absence of incorporation does not create a legal vacuum — it simply means the responsible individual(s), rather than a separate corporate ‘person,’ bear direct legal responsibility for the initiative's conduct, including its internship program.
-
-In summary: Vipto's authority to engage interns does not derive from being an incorporated company. It derives from ordinary contractual capacity under the Indian Contract Act, 1872, exercised transparently and in good faith by the individual(s) responsible for Vipto, consistent with the broader legal principle — reflected in the Apprentices Act, 1961 — that the capacity to engage people for work is not limited to registered companies.
+The existence of a GitHub organization, Play Store application, internal systems, or faculty guidance should not be interpreted as incorporation or as evidence of a separate corporate legal personality.
 
 ---
 
-## 4. Nature of the Internship Engagement
+# 3. Project Management and Faculty Guidance
 
-Every internship engaged through Vipto is governed by a written internship communication or agreement specifying, at minimum:
+## 3.1 Project Management
 
-- The intern's name and assigned role;
-- The start date and expected duration of the internship;
-- The defined scope of work and responsibilities;
-- The reporting/supervisory structure applicable to that role;
-- The working arrangement (including remote/asynchronous work and any recurring collaborative sessions);
-- The tools and systems used for the engagement (GitHub, Microsoft Teams, Confluence, Figma, as applicable);
-- The evaluation and progress-review process;
-- Confidentiality and intellectual property terms, where applicable;
-- Whether the internship is paid or unpaid, stated explicitly and without ambiguity.
+Vipto is managed by **Mr. Ayush Vaidya**, who is responsible for the project's operational management and coordination.
 
-This documentation exists precisely because Vipto is not relying on an assumed corporate status; it is relying on the terms actually agreed between the parties, which is the legally operative basis for any internship regardless of the engaging entity's corporate status.
+The project may involve students, interns, contributors, volunteers, and other individuals who contribute to software development, product operations, research, design, testing, documentation, and other project-related activities.
 
-Vipto does not represent any intern as an ‘employee,’ ‘director,’ ‘partner,’ ‘officer,’ or holder of any statutory office. The internship is, and is represented as, a defined-term engagement for learning and product-development contribution.
+The ownership and management of the Vipto project remain separate from the academic guidance described below.
 
----
+## 3.2 Faculty Guide / Mentor
 
-## 5. Legal Basis for Issuing Internship Certificates
+Vipto has received academic guidance and mentorship from:
 
-A recurring question is whether an entity that is not an incorporated company, government body, or university can lawfully issue an internship certificate. It can — because an internship certificate, properly understood, is simply a written statement of fact about work that was actually performed, under actual supervision, over an actual period of time.
+**Dr. Sheetal S. Sonawane**
+Associate Professor
+Computer Engineering Department
+SCTR's Pune Institute of Computer Technology (PICT), Pune
 
-Issuing such a factual statement does not require incorporation, government recognition, or educational accreditation; it requires only that the statement be true and issued by a person with actual knowledge of the facts stated.
+As stated in the **Faculty Guidance Letter dated 09 September 2026**, Dr. Sheetal S. Sonawane is serving as a **Faculty Guide/Mentor for the Vipto project** and is providing academic guidance and mentorship.
 
-### Standard Form Used by Vipto
+The Faculty Guidance Letter expressly states that the faculty guide **is not involved in the ownership of the project**.
 
-**Certificate of Internship**
+## 3.3 Period of Faculty Guidance
 
-This is to certify that [Name] successfully completed an internship with Vipto in the capacity of [role], from [start date] to [end date], under supervision within Vipto's internal organizational structure. During this period, the intern contributed to [brief, factual description of work performed].
+Students participating in Vipto are permitted to work under the faculty guide's guidance for **academic and learning purposes for the period from 09/09/2026 to 30/07/2027**, as stated in the Faculty Guidance Letter.
 
-This certificate is deliberately limited to verifiable fact. It does not, and must not, state or imply:
-
-- Government accreditation, approval, or recognition;
-- University, UGC, AICTE, or other educational-body affiliation or approval;
-- Statutory or corporate registration status that does not exist;
-- Employment status, or any designation implying a formal employer–employee relationship governed by labour statutes that do not apply to the actual arrangement;
-- Any authority, license, or certification that Vipto does not actually hold.
-
-A certificate confined to accurate, factual statements of engagement and contribution is a lawful and legitimate document, referenceable by the intern for academic, professional, or employment purposes, and independently verifiable through Vipto's official contact channel.
+This academic guidance does not, by itself, convert Vipto into a university, college, company, statutory apprenticeship establishment, or institutionally incorporated project.
 
 ---
 
-## 6. Operational Accountability Without Incorporation
+# 4. Nature and Limits of Faculty Association
 
-Because Vipto is not incorporated, its accountability is demonstrated through operational transparency rather than statutory filings. This includes:
+The faculty guidance described in this document should be understood strictly within the scope stated in the Faculty Guidance Letter.
 
-- A maintained, auditable GitHub organization reflecting actual development activity and contribution history;
-- A published, policy-compliant application on the Google Play Store, which independently requires ongoing adherence to Google's platform and content policies;
-- Maintained internal records of intern selection, onboarding, supervision, evaluation, and completion;
-- A single, designated official contact channel through which any internship, engagement, or certificate can be verified by a third party, including prospective employers or educational institutions.
+The Faculty Guide/Mentor provides academic guidance and mentorship to participating students.
 
-This structure is designed so that any factual claim made in a Vipto-issued document can be independently corroborated, notwithstanding the absence of corporate registration.
+The Faculty Guide/Mentor is **not an owner of Vipto**, and the Faculty Guidance Letter does not transfer ownership, intellectual property, management authority, or corporate/legal responsibility for Vipto to the faculty member or to PICT.
 
----
+Nothing in this framework should be interpreted as representing that:
 
-## 7. Matters Outside the Scope of This Document
+* Vipto is owned by PICT;
+* Vipto is a project legally owned by PICT;
+* Vipto is a company incorporated by PICT;
+* PICT is a shareholder, partner, or owner of Vipto;
+* PICT has assumed legal liability for Vipto;
+* Vipto is an official commercial entity of PICT; or
+* participation in Vipto constitutes a PICT-issued academic qualification.
 
-This document addresses only the legal basis for engaging interns and issuing internship documentation.
-
-It does not address, and should not be read as addressing, matters such as taxation of any stipend paid, data protection obligations under the Digital Personal Data Protection Act, 2023, intellectual property ownership terms, or other regulatory obligations that may apply to Vipto's activities.
-
-Each such matter depends on the specific facts of the arrangement and should be assessed independently, and, where appropriate, with the assistance of a qualified professional.
-
----
-
-## 8. Representation Standards
-
-Consistent with the principles set out above, all communication issued in Vipto's name — public or internal — is required to:
-
-- Accurately describe Vipto as an unincorporated technology product initiative, not as a registered company, unless and until that status changes;
-- Rely only on Vipto's actual, verifiable operational presence (including its GitHub organization and Play Store listing) as evidence of legitimacy, without implying that such presence constitutes incorporation;
-- Avoid any suggestion of government recognition, university accreditation, or statutory status that does not exist;
-- Ensure that any certificate, letter, or confirmation issued states only verifiable, factual information.
+The faculty guidance is therefore described as **academic guidance and mentorship**, consistent with the Faculty Guidance Letter.
 
 ---
 
-## 9. Verification
+# 5. If Vipto Is Not a Company, How Can It Engage Interns?
 
-Any internship, role, or certificate associated with Vipto may be verified by writing to Vipto's official contact address:
+The absence of incorporation does not, by itself, prevent an individual or unincorporated project from entering into contractual arrangements.
 
-**vipto.app@gmail.com**
+Vipto's internship arrangements are therefore based on the terms actually agreed between the responsible individual managing the project and the participating intern.
+
+## 5.1 Contractual Basis
+
+An internship arrangement may be documented through a written internship offer, engagement letter, agreement, or other written communication specifying the relevant terms.
+
+Depending on the particular engagement, such documentation may identify:
+
+* the intern's name;
+* assigned role;
+* start date;
+* duration;
+* scope of work;
+* responsibilities;
+* reporting or supervisory structure;
+* working arrangement;
+* evaluation process;
+* confidentiality obligations;
+* intellectual-property provisions; and
+* whether the engagement is paid or unpaid.
+
+The existence of such an agreement does not depend upon Vipto having been incorporated as a company.
+
+## 5.2 Responsibility of the Project Manager
+
+Because Vipto currently operates without a separate incorporated legal personality, responsibility for commitments made in Vipto's name rests with the individual(s) actually managing and carrying on the project, subject to applicable law and the actual terms of the relevant arrangement.
+
+Vipto does not represent itself as a separate incorporated corporate person where no such incorporation exists.
 
 ---
 
-## 10. Legal Notice
+# 6. Nature of the Internship and Student Engagement
 
-This document is a factual and organizational disclosure regarding Vipto's operating basis and internship framework.
+Students and interns participating in Vipto may undertake activities including, depending on their assigned role:
 
-It is published in the interest of transparency and is not a legal opinion, a statutory filing, or a substitute for advice from a qualified legal professional.
+* software development;
+* testing and debugging;
+* product operations;
+* product research;
+* user and seller-related research;
+* documentation;
+* design;
+* technical problem-solving;
+* project coordination;
+* process development; and
+* other product-development or learning activities.
 
-The legal characterization of any specific internship, agreement, payment, or certificate depends on its actual terms and the law applicable at the relevant time.
+The exact responsibilities of each participant are determined by their individual internship or engagement documentation.
 
-Any person seeking legal certainty regarding a specific engagement with Vipto, or regarding matters of taxation, intellectual property, data protection, or regulatory compliance, is advised to seek independent professional legal advice.
+Where applicable, students may simultaneously receive academic guidance and mentorship from the designated Faculty Guide/Mentor.
+
+The academic guidance relationship and the Vipto project engagement are related but distinct components of the overall arrangement.
+
+Vipto does not represent an intern as a statutory apprentice merely because the individual is participating in an internship.
 
 ---
 
-**Vipto — Legal Basis of Operation & Internship Framework — Public Reference Document**
+# 7. Academic and Learning Purpose
+
+The Faculty Guidance Letter states that participating students will work under faculty guidance **for academic and learning purposes** during the stated guidance period.
+
+Accordingly, Vipto's student engagement framework recognizes both:
+
+1. the student's practical participation in the Vipto project; and
+2. the academic and learning-oriented nature of the faculty mentorship.
+
+Participation in Vipto should nevertheless be described accurately according to the student's actual role and work performed.
+
+No communication should represent participation as a university-awarded qualification unless such qualification has independently been awarded by the relevant educational institution.
+
+---
+
+# 8. Ownership of Contributions and Intellectual Property
+
+## 8.1 Ownership of Contributions
+
+**Any source code, software, technical solution, design, documentation, feature, product idea, or other work created, developed, modified, or contributed by any intern, contributor, volunteer, or other individual specifically for or in connection with Vipto shall be the exclusive property of Vipto.**
+
+The individual making the contribution shall **not acquire any ownership, copyright, intellectual property, or other proprietary rights in such contribution solely by creating or contributing it.**
+
+All such rights shall belong **exclusively to Vipto**, subject to any rights in pre-existing intellectual property that was independently created before the individual's engagement with Vipto.
+
+## 8.2 Pre-Existing Intellectual Property
+
+The ownership provision above does not transfer intellectual property that an individual independently created and owned **before** their engagement with Vipto and that was not specifically created for or in connection with Vipto.
+
+Any pre-existing intellectual property incorporated into Vipto work should be disclosed where reasonably necessary and shall remain subject to the rights of its original owner unless separately agreed in writing.
+
+## 8.3 Contributions Made During the Engagement
+
+Where an individual creates, develops, modifies, or contributes work specifically for Vipto during their engagement, such work shall be treated as a contribution to the Vipto project and shall be owned exclusively by Vipto in accordance with the applicable engagement terms.
+
+This includes contributions made individually or jointly with other interns, contributors, volunteers, employees, mentors, project members, or other persons participating in Vipto.
+
+## 8.4 No Independent Proprietary Claim
+
+An individual's participation in the creation or development of a Vipto-related contribution does not, by itself, create an ownership interest, copyright claim, intellectual-property interest, licensing right, equity interest, partnership interest, or other proprietary interest in Vipto or in the relevant contribution.
+
+The individual's contribution or authorship may be recorded internally or publicly where appropriate for recognition, attribution, portfolio purposes, or project history, but such recognition does not alter the ownership position stated above.
+
+---
+
+# 9. Authority to Issue Internship and Completion Certificates
+
+The Faculty Guidance Letter dated **09 September 2026** states that Dr. Sheetal S. Sonawane allows **Mr. Ayush Vaidya to issue internship/completion certificates to participating students upon satisfactory completion of their work under her guidance**.
+
+Accordingly, Vipto may issue internship or completion certificates to eligible participants where the relevant work has actually been completed and the applicable completion criteria have been satisfied.
+
+Such documentation must accurately identify the participant, role, period of engagement, nature of work performed, and relevant guidance arrangement where applicable.
+
+The existence of faculty authorization to issue such documentation does **not** mean that the documentation is itself issued by PICT.
+
+---
+
+# 10. Limits on Certificate Representation
+
+Vipto-issued internship or completion documentation must remain factual and must not state or imply:
+
+* that Vipto is an incorporated company when it is not;
+* that Vipto is owned or operated by PICT;
+* that PICT has issued the documentation;
+* that the documentation is a PICT academic certificate;
+* government accreditation or approval;
+* UGC or AICTE accreditation or approval of Vipto;
+* statutory corporate registration that does not exist;
+* an employment relationship where the actual arrangement does not establish one;
+* statutory apprenticeship status where the engagement is not such an apprenticeship; or
+* any license, authorization, accreditation, or certification that Vipto does not actually possess.
+
+---
+
+# 11. Relationship With PICT
+
+The reference to PICT in Vipto's documentation arises from the identity and designation of the Faculty Guide/Mentor and the academic guidance relationship described in the Faculty Guidance Letter.
+
+The Faculty Guidance Letter identifies Dr. Sheetal S. Sonawane as an Associate Professor in the Computer Engineering Department of SCTR's Pune Institute of Computer Technology (PICT), Pune.
+
+However, the letter states that the faculty member is providing academic guidance and mentorship and **is not involved in ownership of the project**.
+
+Accordingly, Vipto shall not represent PICT as the owner, operator, legal entity, sponsor, or commercial contracting party of Vipto unless PICT separately provides such authorization in writing.
+
+The faculty member's guidance should therefore be represented as **faculty guidance/mentorship**, rather than as institutional ownership or institutional operation of Vipto.
+
+---
+
+# 12. Operational Accountability Without Incorporation
+
+Because Vipto is not incorporated, its operational accountability is demonstrated through transparency and verifiable project activity rather than corporate filings.
+
+This includes:
+
+* a maintained GitHub organization reflecting development activity and contribution history;
+* a published application on the Google Play Store;
+* maintained internal records relating to selection, onboarding, supervision, evaluation, and completion;
+* written internship and engagement documentation;
+* defined project-management and reporting structures;
+* academic guidance and mentorship where applicable; and
+* an official contact channel through which internship, engagement, and certificate information may be verified.
+
+These mechanisms are intended to allow factual claims made in Vipto-issued documentation to be independently corroborated.
+
+---
+
+# 13. Verification of Internship and Certificates
+
+Any internship, role, or certificate associated with Vipto may be verified by contacting:
+
+**[vipto.app@gmail.com](mailto:vipto.app@gmail.com)**
+
+Verification may include confirmation of:
+
+* whether the individual participated in Vipto;
+* the role held;
+* the relevant internship period;
+* the nature of work performed; and
+* whether the relevant certificate was issued by Vipto.
+
+Verification should be limited to information that Vipto is entitled to disclose and that can be factually confirmed from its records.
+
+---
+
+# 14. Representation Standards
+
+All communication issued in the name of Vipto, whether public or internal, should:
+
+1. Accurately describe Vipto as an **unincorporated technology project/initiative** unless and until its legal structure changes.
+
+2. Accurately identify Mr. Ayush Vaidya as the project manager where such identification is relevant.
+
+3. Accurately describe Dr. Sheetal S. Sonawane's role as **Faculty Guide/Mentor** where relevant.
+
+4. Not represent the Faculty Guide/Mentor as an owner of Vipto.
+
+5. Not represent PICT as the owner, operator, corporate entity, or commercial contracting party of Vipto unless separately authorized.
+
+6. Rely on actual and verifiable operational activity as evidence of the project's existence without implying corporate incorporation.
+
+7. Avoid any suggestion of government recognition, university accreditation, or statutory status that does not exist.
+
+8. Ensure that all certificates, letters, and confirmations contain only factual and verifiable information.
+
+9. Clearly distinguish between **faculty guidance**, **Vipto project management**, and **institutional status**.
+
+10. Avoid using the faculty member's designation or institutional affiliation in a manner that could reasonably create a false impression of institutional endorsement beyond the scope of the Faculty Guidance Letter.
+
+11. Ensure that ownership of Vipto-related contributions is represented consistently with the **Ownership of Contributions** provisions of this framework and the applicable individual engagement terms.
+
+---
+
+# 15. Matters Outside the Scope of This Document
+
+This document addresses the organizational basis of Vipto, its faculty-guidance arrangement, its internship framework, and the ownership framework applicable to contributions made specifically for or in connection with Vipto.
+
+It does not independently determine or provide a legal opinion regarding:
+
+* taxation or stipend obligations;
+* labour-law classification;
+* data-protection obligations;
+* copyright registration;
+* software licensing;
+* corporate or business registration;
+* statutory apprenticeship requirements;
+* university academic-credit policies;
+* regulatory compliance; or
+* any other matter dependent upon the specific facts of an individual arrangement.
+
+Each such matter may depend upon the actual circumstances, terms, and applicable law and should be assessed independently where necessary.
+
+---
+
+# 16. Legal Notice
+
+This document is a factual and organizational disclosure regarding Vipto's operating basis, faculty-guidance arrangement, internship framework, and contribution-ownership framework.
+
+It is not a legal opinion, statutory filing, certificate of incorporation, university authorization, government approval, or substitute for advice from a qualified legal professional.
+
+The legal characterization of any specific internship, agreement, payment, certificate, academic arrangement, intellectual-property matter, or other activity depends upon its actual terms and the law applicable at the relevant time.
+
+Any person seeking legal certainty regarding a specific engagement with Vipto is advised to obtain independent professional legal advice.
+
+---
+
+# 17. Faculty Guidance Record
+
+The faculty-guidance position described in this document is supported by the following written record:
+
+**Faculty Guidance Letter**
+**Date:** 09 September 2026
+
+**Faculty Guide/Mentor:**
+Dr. Sheetal S. Sonawane
+Associate Professor
+Computer Engineering Department
+SCTR's Pune Institute of Computer Technology (PICT), Pune
+Email: [sssonawane@pict.edu](mailto:sssonawane@pict.edu)
+
+**Guidance Period:**
+09/09/2026 – 30/07/2027
+
+The letter states that students participating in Vipto will work under the faculty guide's guidance for academic and learning purposes and permits Mr. Ayush Vaidya to issue internship/completion certificates to participating students upon satisfactory completion of their work under the faculty guide's guidance.
+
+---
+
+# 18. Current Organizational Position
+
+As of the date of this document:
+
+**Project:** Vipto
+**Nature:** Technology product initiative / project
+**Corporate Status:** Unincorporated
+**Project Manager:** Mr. Ayush Vaidya
+**Faculty Guide/Mentor:** Dr. Sheetal S. Sonawane
+**Faculty Guidance Period:** 09/09/2026 – 30/07/2027
+**Internship Certificates:** May be issued by Mr. Ayush Vaidya upon satisfactory completion, consistent with the Faculty Guidance Letter
+**Contribution Ownership:** Contributions specifically created, developed, modified, or made for or in connection with Vipto are owned exclusively by Vipto, subject to rights in independently created pre-existing intellectual property
+**Official Verification Contact:** [vipto.app@gmail.com](mailto:vipto.app@gmail.com)
+
+Any future change in Vipto's legal structure, ownership, institutional relationship, faculty-guidance arrangement, or authorization should be reflected in an updated version of this document.
+
+---
+
+**Vipto — Legal Basis of Operation, Faculty Guidance & Internship Framework**
+**Public Reference Document**
+**Last Updated: September 2026**
