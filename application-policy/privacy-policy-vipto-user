@@ -1,0 +1,368 @@
+============================================================
+                     VIPTO USER
+                   PRIVACY POLICY
+============================================================
+
+Effective Date: July 2026
+
+Welcome to Vipto User. Your privacy is important to us.
+
+This Privacy Policy explains what information we collect,
+why we collect it, how it is used, and how we protect it.
+
+By using the Vipto User application, you agree to the
+practices described in this policy.
+
+
+------------------------------------------------------------
+1. ABOUT VIPTO USER
+------------------------------------------------------------
+
+Vipto User is a location-based marketplace application that
+helps users discover products available in nearby local stores.
+
+The application allows users to browse products without
+creating an account.
+
+Users only need to register when they want to check the
+availability of a product at a store.
+
+The platform is designed to connect customers with nearby
+verified sellers while collecting only the minimum amount
+of personal information required for the service to function.
+
+
+------------------------------------------------------------
+2. INFORMATION WE COLLECT
+------------------------------------------------------------
+
+For the MVP version of Vipto User, we collect only the
+information required to provide core functionality.
+
+
+PERSONAL INFORMATION
+
+When you create an account, we may collect:
+
+- Full Name
+- Mobile Phone Number
+
+This information is used to create your customer profile
+and communicate your product availability requests to sellers.
+
+
+DEVICE LOCATION
+
+With your permission, the application accesses your device's
+location to:
+
+- Display nearby stores
+- Show products available around you
+- Calculate approximate distance to stores
+- Improve search results
+
+Location access is requested only after the application starts
+and can be disabled anytime through your device settings.
+
+
+USAGE INFORMATION
+
+The application may automatically collect:
+
+- Device model
+- Android version
+- Application version
+- Crash reports
+- Performance information
+- Anonymous analytics
+
+This information helps improve application stability and
+user experience.
+
+
+------------------------------------------------------------
+3. INFORMATION WE DO NOT COLLECT
+------------------------------------------------------------
+
+The MVP version of Vipto User does NOT collect or store:
+
+- Credit or debit card information
+- Banking information
+- UPI details
+- Government identity documents
+- Aadhaar number
+- PAN number
+- Passport information
+- Passwords
+- Email address (unless voluntarily provided)
+- Contacts
+- SMS
+- Call history
+- Photos from your gallery without permission
+- Background location
+
+
+------------------------------------------------------------
+4. HOW YOUR INFORMATION IS USED
+------------------------------------------------------------
+
+Your information is used only for operating the marketplace.
+
+Examples include:
+
+- Creating your customer account
+- Sending availability requests to sellers
+- Identifying which customer made a request
+- Displaying nearby products
+- Opening store locations in Google Maps
+- Improving application performance
+- Preventing spam and misuse
+
+We never sell your personal information.
+
+
+------------------------------------------------------------
+5. PRODUCT AVAILABILITY REQUESTS
+------------------------------------------------------------
+
+When you press "Check Availability", Vipto creates a request
+containing:
+
+- Your User ID
+- Your phone number
+- Product ID
+- Shop ID
+- Request status
+- Request creation time
+
+The seller receives this request and can respond by confirming
+or rejecting product availability.
+
+No payment information is shared during this process.
+
+
+------------------------------------------------------------
+6. LOCATION DATA
+------------------------------------------------------------
+
+Location permission is used only to:
+
+- Find nearby shops
+- Display distance from your current location
+- Improve product recommendations
+
+Your precise location is NOT continuously tracked.
+
+The application only accesses location when needed to provide
+nearby search functionality.
+
+
+------------------------------------------------------------
+7. DATA STORAGE
+------------------------------------------------------------
+
+Vipto stores application data using Google Firebase Firestore.
+
+The current MVP database contains four main collections:
+
+- Users
+- Shops
+- Products
+- Requests
+
+
+USER INFORMATION
+
+User information stored includes:
+
+- Name
+- Phone number
+- User role
+- Account creation date
+- Latitude
+- Longitude
+
+
+PRODUCT INFORMATION
+
+Product information includes:
+
+- Product name
+- Category
+- Price
+- Product image
+- Shop ID
+
+Images uploaded by sellers are securely stored using
+Cloudinary.
+
+
+------------------------------------------------------------
+8. DATA SECURITY
+------------------------------------------------------------
+
+We take reasonable steps to protect your information.
+
+Security measures include:
+
+- Firebase secure cloud infrastructure
+- Firestore security rules
+- Encrypted HTTPS communication
+- Controlled database access
+- Limited data collection
+
+Although we strive to protect your data, no online service
+can guarantee absolute security.
+
+
+------------------------------------------------------------
+9. THIRD-PARTY SERVICES
+------------------------------------------------------------
+
+Vipto User uses trusted third-party services to operate
+the application.
+
+These include:
+
+- Google Firebase
+- Firebase Firestore
+- Firebase Authentication (future versions)
+- Cloudinary (product image storage)
+- Google Maps (opening store location)
+
+These providers may process limited technical information
+necessary for delivering their services.
+
+
+------------------------------------------------------------
+10. CHILDREN'S PRIVACY
+------------------------------------------------------------
+
+Vipto User is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from
+children.
+
+If such information is discovered, it will be removed as
+soon as reasonably possible.
+
+
+------------------------------------------------------------
+11. DATA RETENTION
+------------------------------------------------------------
+
+User information is retained only while necessary for
+providing the marketplace service.
+
+Availability requests may remain in the database for
+operational purposes until deleted by system administrators
+or according to future data retention policies.
+
+
+------------------------------------------------------------
+12. USER RIGHTS
+------------------------------------------------------------
+
+Users may request to:
+
+- View their stored information
+- Correct incorrect information
+- Delete their account
+- Delete associated personal data
+- Report privacy concerns
+
+Requests can be made using the contact information below.
+
+
+------------------------------------------------------------
+13. PERMISSIONS USED
+------------------------------------------------------------
+
+The application may request the following Android permissions:
+
+
+LOCATION
+
+Purpose:
+
+- Find nearby stores
+- Display distance
+- Improve local search
+
+
+INTERNET
+
+Purpose:
+
+- Connect to Firebase
+- Download product information
+- Load product images
+- Send availability requests
+
+No permission is requested without a valid application feature
+requiring it.
+
+
+------------------------------------------------------------
+14. FUTURE FEATURES
+------------------------------------------------------------
+
+Future versions of Vipto User may introduce additional
+features such as:
+
+- Notifications
+- OTP verification
+- Wishlist
+- Chat with sellers
+- Ratings and reviews
+- Payment integration
+
+If these features require additional data collection,
+this Privacy Policy will be updated accordingly.
+
+
+------------------------------------------------------------
+15. CHANGES TO THIS PRIVACY POLICY
+------------------------------------------------------------
+
+We may update this Privacy Policy from time to time as the
+application evolves.
+
+Updated versions will be published before becoming effective.
+
+Continued use of the application after updates constitutes
+acceptance of the revised policy.
+
+
+------------------------------------------------------------
+16. CONTACT US
+------------------------------------------------------------
+
+If you have any questions, concerns, or requests regarding
+this Privacy Policy or your personal information, please
+contact us:
+
+Vipto
+
+Email: vipto.app@gmail.com
+
+We aim to respond to privacy-related inquiries within a
+reasonable timeframe.
+
+
+------------------------------------------------------------
+17. ACCEPTANCE OF THIS POLICY
+------------------------------------------------------------
+
+By downloading, installing, or using Vipto, you
+acknowledge that you have read and understood this Privacy
+Policy and agree to the collection and use of information
+as described above.
+
+Thank you for using Vipto User and supporting local
+businesses through the Vipto marketplace.
+
+
+
+
+===========================================================
